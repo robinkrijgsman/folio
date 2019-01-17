@@ -38,7 +38,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Over mij"
-  url = "over/"
+  url = "about/"
 
   [params.social]
   email         = "robinkrijgsman96(a)gmail.com"
