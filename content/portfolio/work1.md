@@ -1,13 +1,13 @@
 ---
 date: "2016-11-05T18:25:22+05:30"
 draft: false
-image: img/portfolio/a4-paper.jpg
-showonlyimage: true
-title: Name of the work 1
+image: img/portfolio/project.jpg
+showonlyimage: false
+title: Kunstdingen 
 weight: 0
 ---
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Hier doet Robin iets met kunst enzo. 
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
