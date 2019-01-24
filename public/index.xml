@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robin Krijgsman</title>
-    <link>https://robinkrijgsman.com/</link>
+    <link>/</link>
     <description>Recent content on Robin Krijgsman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://robinkrijgsman.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Saartje</title>
-      <link>https://robinkrijgsman.com/portfolio/work2/</link>
+      <link>/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://robinkrijgsman.com/portfolio/work2/</guid>
+      <guid>/portfolio/work2/</guid>
       <description>&lt;p&gt;Dit is Saartje. Saartje is raar.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tommie</title>
-      <link>https://robinkrijgsman.com/portfolio/work3/</link>
+      <link>/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://robinkrijgsman.com/portfolio/work3/</guid>
+      <guid>/portfolio/work3/</guid>
       <description>&lt;p&gt;Dit is Tommie. Hij eet balletjes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Kunstdingen</title>
-      <link>https://robinkrijgsman.com/portfolio/work1/</link>
+      <link>/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://robinkrijgsman.com/portfolio/work1/</guid>
+      <guid>/portfolio/work1/</guid>
       <description>&lt;p&gt;Hier doet Robin iets met kunst enzo.&lt;/p&gt;</description>
     </item>
     

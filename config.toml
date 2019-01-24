@@ -1,4 +1,4 @@
-baseurl = "https://robinkrijgsman.com/"
+baseurl = "/"
 title = "Robin Krijgsman"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
