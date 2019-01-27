@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studie - Robin Krijgsman</title>
-    <link>/categories/studie/</link>
+    <link>www.robinkrijgsman.com/categories/studie/</link>
     <description>Recent content in Studie on Robin Krijgsman</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/categories/studie/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="www.robinkrijgsman.com/categories/studie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projectweek</title>
-      <link>/post/projectweek/</link>
+      <link>www.robinkrijgsman.com/post/projectweek/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/projectweek/</guid>
+      <guid>www.robinkrijgsman.com/post/projectweek/</guid>
       <description>Hier ben ik bezig met een project voor mijn studie.</description>
     </item>
     
