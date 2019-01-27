@@ -1,41 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robin Krijgsman</title>
+    <title>portfolio - Robin Krijgsman</title>
     <link>/</link>
-    <description>Recent content on Robin Krijgsman</description>
+    <description>Recent content in portfolio on Robin Krijgsman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Saartje</title>
-      <link>/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>About Robin</title>
+      <link>/about/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work2/</guid>
-      <description>&lt;p&gt;Dit is Saartje. Saartje is raar.&lt;/p&gt;</description>
+      <guid>/about/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Projectweek</title>
+      <link>/post/projectweek/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/projectweek/</guid>
+      <description>Hier ben ik bezig met een project voor mijn studie.</description>
+    </item>
+    
+    <item>
+      <title>Saartje</title>
+      <link>/post/saartje/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/saartje/</guid>
+      <description>Saartje is de andere kat van mijn moeder.</description>
     </item>
     
     <item>
       <title>Tommie</title>
-      <link>/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <link>/post/tommie/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work3/</guid>
-      <description>&lt;p&gt;Dit is Tommie. Hij eet balletjes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Kunstdingen</title>
-      <link>/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/portfolio/work1/</guid>
-      <description>&lt;p&gt;Hier doet Robin iets met kunst enzo.&lt;/p&gt;</description>
+      <guid>/post/tommie/</guid>
+      <description>Tommie is de kat van mijn moeder.</description>
     </item>
     
   </channel>
