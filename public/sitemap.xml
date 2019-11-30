@@ -3,55 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.robinkrijgsman.com/about/</loc>
+    <loc>/post/robin/</loc>
     <lastmod>2019-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.robinkrijgsman.com/post/projectweek/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.robinkrijgsman.com/post/saartje/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.robinkrijgsman.com/post/tommie/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.robinkrijgsman.com/</loc>
+    <loc>/</loc>
     <lastmod>2018-04-27T09:46:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>www.robinkrijgsman.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.robinkrijgsman.com/categories/katten/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.robinkrijgsman.com/post/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.robinkrijgsman.com/categories/studie/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.robinkrijgsman.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,6 @@
+Stap 1: maak je aanpassingen in de .md bestanden (markdown)
+Stap 2: De yaml bovenaan de tekst is de metadata, voor links enzo. Pas aan als nodig
+Stap 3: Nieuwe fotos ed in de static map zetten
+Stap 4: Maak van de md bestanden HTML door commando blogdown::build_site()
+Stap 5: Laat lokale versie zien met blogdown::serve_site()
+Tevreden met de veranderingen? Commit alle bestanden en klik dan op push. 
