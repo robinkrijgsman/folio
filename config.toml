@@ -1,11 +1,111 @@
-baseurl = "/"
+######################## default configuration ####################
+baseURL = "https://examplesite.com"
+languageCode = "en-us"
 title = "Robin Krijgsman"
-author = "Robin Krijgsman"
-canonifyurls = true
-paginate = 3
-theme = "aether"
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 6
+disqusShortname = ""
 
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+  
+############################## navigation ###############################
+[menu]
+  
+  # main menu
+  [[menu.main]]
+  name = "Over mij"
+  URL = "about/about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Posts"
+  URL = "blog"
+  weight = 3
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 4
+
+  # footer menu
+  [[menu.footer]]
+  name = "Over mij"
+  URL = "about/about"
+  weight = 2
+  
+  [[menu.footer]]
+  name = "Posts"
+  URL = "blog"
+  weight = 3
+  
+  [[menu.footer]]
+  name = "Contact"
+  URL = "contact"
+  weight = 4
+
+
+#################### default parameters ################################
 [params]
-brand = ""
-description = "portfolio website for robin krijgsman"
-bgimg = "img/wit.jpg"
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "UA-153790437-1"
+# Contact Information
+mobile = "+31 618556477"
+email = "robinkrijgsman96@gmail.com"
+location = "Utrecht, Nederland"
+# copyright
+copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved |"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = false
+
+############################ news letter ########################
+[params.newsletter]
+enable = false
+title = "Join Our Newsletter"
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+
+############################# social site ########################
+
