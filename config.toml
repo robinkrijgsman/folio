@@ -2,7 +2,7 @@
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
 title = "Robin Krijgsman"
-theme = "liva-hugo"
+theme = "liva"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
