@@ -1,31 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/robin/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/about/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-04-27T09:46:15-04:00</lastmod>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/tags/new/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/po%C3%ABzie/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post-1/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/theater/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post-2/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
 </urlset>
