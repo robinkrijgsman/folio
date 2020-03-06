@@ -1,0 +1,78 @@
+######################## default configuration ####################
+baseURL = "https://robinkrijgsman.com"
+languageCode = "en-us"
+title = "Robin Krijgsman"
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 6
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+  
+############################## navigation ###############################
+[menu]
+  
+  # main menu
+  [[menu.main]]
+  name = "Over mij"
+  URL = "about"
+  weight = 1
+  
+  [[menu.main]]
+  name = "Posts"
+  URL = "blog"
+  weight = 2
+
+
+#################### default parameters ################################
+[params]
+logo = ""
+home = "Home"
+# Meta data
+description = ""
+author = "Robin Krijgsman"
+# Contact Information
+mobile = "0031 06.18556477"
+email = "robinkrijgsman96(at)gmail.com"
+location = "Utrecht"
+# copyright
+copyright = "| Code source: [Themefisher](https://themefisher.com) All Rights Reserved |"
+
+  # Preloader
+  [params.preloader]
+  enable = false
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = false

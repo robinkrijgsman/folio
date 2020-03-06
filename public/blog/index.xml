@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Robin Krijgsman</title>
+    <link>/blog/</link>
+    <description>Recent content in blog on Robin Krijgsman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intermediale theatervoorstelling</title>
+      <link>/blog/theater/</link>
+      <pubDate>Fri, 06 Mar 2020 10:07:47 +0600</pubDate>
+      
+      <guid>/blog/theater/</guid>
+      <description>In Juni zal ik een intermediale theatervoorstelling opvoeren die ik als student bij HKU Theater aan het maken ben.</description>
+    </item>
+    
+    <item>
+      <title>Nieuwe dichtbundel</title>
+      <link>/blog/dichtbundel2/</link>
+      <pubDate>Fri, 06 Mar 2020 10:07:45 +0600</pubDate>
+      
+      <guid>/blog/dichtbundel2/</guid>
+      <description>Ik ben van plan een nieuwe bundel uit te gaan brengen.</description>
+    </item>
+    
+    <item>
+      <title>Terwijl de honden blaffen</title>
+      <link>/blog/dichtbundel/</link>
+      <pubDate>Fri, 06 Mar 2020 10:07:44 +0600</pubDate>
+      
+      <guid>/blog/dichtbundel/</guid>
+      <description>Mijn eerste dichtbundel is uitgekomen, zelf gepubliceerd bij Brave New Books en nu te koop op bol.</description>
+    </item>
+    
+  </channel>
+</rss>
