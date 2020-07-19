@@ -9,7 +9,7 @@ tags:
 - theater
 
 title: Intermediale theatervoorstelling
-type: featured
+type: 
 ---
 
 In Juni zal ik een intermediale theatervoorstelling opvoeren die ik als student bij HKU Theater aan het maken ben. Als regisseur en acteur ben ik momenteel in het maakproces om een verhaal over familie, hoop en de verschillen en overeenkomsten tussen generaties te vertellen.

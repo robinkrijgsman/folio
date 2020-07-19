@@ -5,6 +5,7 @@ title = "Robin Krijgsman"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
+disqusShortname = "Robinkrijgsman-com"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

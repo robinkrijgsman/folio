@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theater on Robin Krijgsman</title>
-    <link>/categories/theater/</link>
+    <link>https://robinkrijgsman.com/categories/theater/</link>
     <description>Recent content in Theater on Robin Krijgsman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Mar 2020 10:07:47 +0600</lastBuildDate>
     
-	<atom:link href="/categories/theater/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robinkrijgsman.com/categories/theater/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intermediale theatervoorstelling</title>
-      <link>/blog/theater/</link>
+      <link>https://robinkrijgsman.com/blog/theater/</link>
       <pubDate>Fri, 06 Mar 2020 10:07:47 +0600</pubDate>
       
-      <guid>/blog/theater/</guid>
+      <guid>https://robinkrijgsman.com/blog/theater/</guid>
       <description>In Juni zal ik een intermediale theatervoorstelling opvoeren die ik als student bij HKU Theater aan het maken ben.</description>
+    </item>
+    
+    <item>
+      <title>De Grote Stilte in samenwerking met HKU</title>
+      <link>https://robinkrijgsman.com/blog/theater2/</link>
+      <pubDate>Fri, 06 Mar 2020 10:07:45 +0600</pubDate>
+      
+      <guid>https://robinkrijgsman.com/blog/theater2/</guid>
+      <description>‘De Grote Stilte’ is het resultaat van een derdejaars interdisciplinair project waarin een script dat in eerste instantie voor theater werd geschreven omgezet is naar een digitale, speelbare voorstelling waarin de gebruiker de hoofdrol speelt.</description>
     </item>
     
   </channel>

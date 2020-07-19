@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dichten on Robin Krijgsman</title>
-    <link>/tags/dichten/</link>
+    <link>https://robinkrijgsman.com/tags/dichten/</link>
     <description>Recent content in dichten on Robin Krijgsman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Mar 2020 10:07:45 +0600</lastBuildDate>
     
-	<atom:link href="/tags/dichten/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robinkrijgsman.com/tags/dichten/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nieuwe dichtbundel</title>
-      <link>/blog/dichtbundel2/</link>
+      <link>https://robinkrijgsman.com/blog/dichtbundel2/</link>
       <pubDate>Fri, 06 Mar 2020 10:07:45 +0600</pubDate>
       
-      <guid>/blog/dichtbundel2/</guid>
+      <guid>https://robinkrijgsman.com/blog/dichtbundel2/</guid>
       <description>Ik ben van plan een nieuwe bundel uit te gaan brengen.</description>
     </item>
     
     <item>
       <title>Terwijl de honden blaffen</title>
-      <link>/blog/dichtbundel/</link>
+      <link>https://robinkrijgsman.com/blog/dichtbundel/</link>
       <pubDate>Fri, 06 Mar 2020 10:07:44 +0600</pubDate>
       
-      <guid>/blog/dichtbundel/</guid>
+      <guid>https://robinkrijgsman.com/blog/dichtbundel/</guid>
       <description>Mijn eerste dichtbundel is uitgekomen, zelf gepubliceerd bij Brave New Books en nu te koop op bol.</description>
     </item>
     
