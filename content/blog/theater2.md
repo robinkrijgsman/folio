@@ -22,11 +22,11 @@ https://drive.google.com/drive/folders/1tJ2cV0iKGSCN6DyVJfwvOCEx7ui9lAiO?usp=sha
 
 Hier staan 2 versies, een voor Windows en een voor Mac. Een applicatie als Winrar of 7zip is vereist om het bestand uit te pakken. Eenmaal uitgepakt kan je op de applicatie ‘’degrotestilte’’ klikken om het te starten.
 
-![](images/help1.png)
+![](../../images/help1.png)
 
 _Rechtermuisknop op het zip bestand, dan Extract Here of Hier Uitpakken. In de folder staat de applicatie 'degrotestilte'._
 
-![](images/help2.png)
+![](../../images/help2.png)
 
 De voorstelling duurt ongeveer een uur. Neem er de tijd voor, we raden aan om het in één zit te zien.
 
