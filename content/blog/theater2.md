@@ -1,7 +1,7 @@
 ---
 categories:
 - Theater
-date: "2020-07-22T00:00:00+06:00"
+date: "2020-07-20T00:00:00+06:00"
 description: Theatervoorstelling
 draft: false
 image: images/menuLEEG.png
